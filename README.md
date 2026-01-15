@@ -3,12 +3,18 @@ This repository contains a foundational study on cyber security concepts. It exp
 
 Objectives
 To understand the basic principles of cyber security using the CIA triad
+
 To identify various types of cyber attackers and their motivations
+
 To explore common attack surfaces in modern applications
+
 To analyze real-world applications for potential security risks
 
 Outcomes
 Gained a clear understanding of core cyber security concepts
+
 Developed awareness of common cyber threats and vulnerabilities
+
 Learned to map applications to possible attack surfaces
+
 Built a strong foundation for further learning in cyber security
